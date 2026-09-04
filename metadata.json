@@ -1,0 +1,6 @@
+{
+  "name": "NexVora Alarm",
+  "description": "Smart wake-up challenge alarm, daily routine, sleep tracking, voice announcements, goals, study timer, and world clock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
